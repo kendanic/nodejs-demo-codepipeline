@@ -92,7 +92,7 @@ app.get('/', (req, res) => {
     }
 
     footer {
-      background: #141e30;
+      background: rgb(20, 48, 31);
       text-align: center;
       padding: 30px;
       font-size: 0.9rem;
@@ -109,7 +109,7 @@ app.get('/', (req, res) => {
       Deployed using AWS CodePipeline, CodeBuild, Elastic Beanstalk,
       Load Balancer, Auto Scaling and Blue/Green deployment.
     </p>
-    <button class="btn">Deployment Successful 🚀</button>
+    <button class="btn">Deployment Successful</button>
   </section>
 
   <section class="section">
