@@ -1,0 +1,13 @@
+{
+  "name": "node-eb-ui-app",
+  "version": "1.0.0",
+  "description": "Node.js UI app for AWS CodePipeline and Elastic Beanstalk",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"No tests\" && exit 0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
