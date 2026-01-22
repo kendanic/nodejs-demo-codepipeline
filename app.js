@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
     }
 
     body {
-      background: linear-gradient(135deg, #141e30, #243b55);
+      background: linear-gradient(135deg, #141e30, #11531e);
       color: #fff;
       min-height: 100vh;
     }
@@ -92,7 +92,7 @@ app.get('/', (req, res) => {
     }
 
     footer {
-      background: rgb(20, 48, 31);
+      background: linear-gradient(135deg, rgb(139,0,0), rgb(220,20,60));
       text-align: center;
       padding: 30px;
       font-size: 0.9rem;
